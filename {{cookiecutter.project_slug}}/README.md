@@ -3,6 +3,8 @@
 
 <https://github.com/{{cookiecutter.project_namespace}}/{{cookiecutter.project_slug}}>
 
+<!-- TOC -->
+
 - [{{cookiecutter.project_name}} - {{cookiecutter.project_description}}](#{{cookiecutter.project_name}})
     - [Overview](#overview)
     - [Quick Start](#quick-start)
@@ -17,7 +19,7 @@
 <!-- /TOC -->
 
 <a id="markdown-overview" name="overview"></a>
-## Overview<!-- TOC -->
+## Overview
 
 <What does this project do?>
 <What does this project _not_ do?>
